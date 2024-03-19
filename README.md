@@ -1,2 +1,2 @@
 # brpl-website-redirect
-Redirect to canonical website.
+Redirect dot_com to canonical website.
